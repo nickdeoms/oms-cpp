@@ -1,2 +1,2 @@
-# oms_cpp
-oms cpp
+# oms-cpp
+oms-cpp
